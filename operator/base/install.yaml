@@ -21,6 +21,7 @@ metadata:
   namespace: ansible-automation-platform
 spec:
   channel: stable-2.2-cluster-scoped
+  version: 2.2.1-40
   installPlanApproval: Automatic
   name: ansible-automation-platform-operator
   source: redhat-operators
